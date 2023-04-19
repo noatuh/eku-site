@@ -1,0 +1,74 @@
+/* styles.css */
+/* Reset default margin and padding */
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set background color and font styles for body */
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    color: #333;
+  }
+  
+  /* Add some padding and margin to header */
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #360202;
+    color: #fff;
+  }
+  
+  /* Style the navigation bar */
+  nav {
+    margin-top: 10px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+  }
+  
+  nav ul li {
+    display: inline;
+  }
+  
+  nav ul li a {
+    display: block;
+    padding: 8px 12px;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  nav ul li a:hover {
+    background-color: #2c010a;
+  }
+  
+  /* Add some padding and margin to main content section */
+  main {
+    padding: 20px;
+  }
+  
+  /* Style section headings */
+  h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+    color: #360202;
+  }
+  
+  /* Style paragraph text */
+  p {
+    margin-bottom: 20px;
+  }
+  
+  /* Style footer */
+  footer {
+    padding: 10px;
+    background-color: #360202;
+    color: #fff;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
